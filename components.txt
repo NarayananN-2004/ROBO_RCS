@@ -1,0 +1,6 @@
+1. Arduino uno
+2. esp32 //if need for tx & rx
+3. instead of esp32 we can use HC-05 BLE Module
+4. BO MOTORS * 3
+5. 3 LiPo battery 3.7V , 2200mah
+6. servo motor 
